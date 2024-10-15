@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React
+          Documentry of Kamal
         </a>
       </header>
     </div>
